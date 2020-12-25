@@ -8,7 +8,6 @@ import (
 
 func main() {
 	fmt.Println("hello world")
-	fmt.Println("xcp")
 	beego.Run()
 }
 

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="200a56d3-3a83-4365-983c-9e8612dfef8e" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BitcoinConnect" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../GO" />
+  <component name="ProjectId" id="1lcrGvqnoyNt4vm7OM5tecTFSN2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testbitcoin" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Goprojects\src\BitcoinConnect\utils" />
+      <recent name="C:\Users\Goprojects\src\BitcoinConnect\service" />
+      <recent name="C:\Users\Goprojects\src\BitcoinConnect\entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build BitcoinConnect (1)">
+    <configuration name="go build BitcoinConnect (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BitcoinConnect" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="BitcoinConnect" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build BitcoinConnect (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BitcoinConnect" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="BitcoinConnect" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build BitcoinConnect (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BitcoinConnect" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="BitcoinConnect" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build BitcoinConnect (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BitcoinConnect" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="BitcoinConnect" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build BitcoinConnect" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BitcoinConnect" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/bctest.go" />
+      <package value="BitcoinConnect" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build BitcoinConnect (1)" />
+        <item itemvalue="Go Build.go build BitcoinConnect" />
+        <item itemvalue="Go Build.go build BitcoinConnect (5)" />
+        <item itemvalue="Go Build.go build BitcoinConnect (4)" />
+        <item itemvalue="Go Build.go build BitcoinConnect (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#Inspections" timestamp="1608084650723">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="3" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1608084650723" />
+    <state x="368" y="0" key="#go_build_BitcoinConnect" timestamp="1608884144581">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="368" y="0" key="#go_build_BitcoinConnect/0.0.1280.680@0.0.1280.680" timestamp="1608884144581" />
+    <state x="368" y="0" key="#go_build_BitcoinConnect_(1)" timestamp="1608007500407">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="368" y="0" key="#go_build_BitcoinConnect_(1)/0.0.1280.680@0.0.1280.680" timestamp="1608007500407" />
+    <state x="368" y="0" key="#go_build_BitcoinConnect_(2)" timestamp="1608021763699">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="368" y="0" key="#go_build_BitcoinConnect_(2)/0.0.1280.680@0.0.1280.680" timestamp="1608021763699" />
+    <state x="368" y="0" key="#go_build_BitcoinConnect_(3)" timestamp="1608029369217">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="368" y="0" key="#go_build_BitcoinConnect_(3)/0.0.1280.680@0.0.1280.680" timestamp="1608029369217" />
+    <state x="368" y="0" key="#go_build_BitcoinConnect_(4)" timestamp="1608041444116">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="368" y="0" key="#go_build_BitcoinConnect_(4)/0.0.1280.680@0.0.1280.680" timestamp="1608041444116" />
+    <state x="368" y="0" key="#go_build_BitcoinConnect_(5)" timestamp="1608084997888">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="368" y="0" key="#go_build_BitcoinConnect_(5)/0.0.1280.680@0.0.1280.680" timestamp="1608084997888" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1609212313157">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1609212313157" />
+    <state width="1237" height="126" key="GridCell.Tab.0.bottom" timestamp="1609209528012">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="126" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609209528012" />
+    <state width="1237" height="126" key="GridCell.Tab.0.center" timestamp="1609209528011">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="126" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1609209528011" />
+    <state width="1237" height="126" key="GridCell.Tab.0.left" timestamp="1609209528011">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="126" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1609209528011" />
+    <state width="1237" height="126" key="GridCell.Tab.0.right" timestamp="1609209528011">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="126" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1609209528011" />
+  </component>
+</project>
